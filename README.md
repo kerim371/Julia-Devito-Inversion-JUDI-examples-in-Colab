@@ -7,8 +7,8 @@ Colaboratory, or “Colab” for short, is a product from Google Research. Colab
 More about [Colab](https://research.google.com/colaboratory/faq.html#:~:text=Colaboratory%2C%20or%20%E2%80%9CColab%E2%80%9D%20for,learning%2C%20data%20analysis%20and%20education.)
 
 ## How to use?
-Follow the link [JUDI_example.ipynb](https://colab.research.google.com/github/kerim371/Julia-Devito-Inversion-JUDI-examples-in-Colab/blob/main/JUDI_example.ipynb)
-or download the [notebook](https://github.com/kerim371/Julia-Devito-Inversion-JUDI-examples-in-Colab/blob/main/JUDI_example.ipynb) and upload it to Colab
+Follow the link [JUDI_examples.ipynb](https://colab.research.google.com/github/kerim371/Julia-Devito-Inversion-JUDI-examples-in-Colab/blob/main/JUDI_examples.ipynb)
+or download the [notebook](https://github.com/kerim371/Julia-Devito-Inversion-JUDI-examples-in-Colab/blob/main/JUDI_examples.ipynb) and upload it to Colab
 
 ## Useful links
 Run Julia in Colab: 
